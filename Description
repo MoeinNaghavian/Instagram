@@ -1,0 +1,52 @@
+> Hi everyone.
+>
+> [Description]
+> Instagram mobile application 168.0.0.40.355 and web application didn't verify the changed email
+> address. In this case attacker can use anyone's email address as the account's linked email. This
+> can cause the Identity theft.
+> 
+> ------------------------------------------
+> 
+> 
+> [Vulnerability Type]
+> other / privacy issue
+> 
+> ------------------------------------------
+> 
+> [Vendor of Product]
+> Facebook
+> 
+> ------------------------------------------
+> 
+> [Affected Product Code Base]
+> Instagram mobile application 168.0.0.40.355 and web application
+> 
+> ------------------------------------------
+> 
+> [Affected Component]
+> Change Email, verifying email
+> 
+> ------------------------------------------
+> 
+> [Attack Type]
+> other / Denial of service
+> 
+> ------------------------------------------
+> 
+> [Impact Information Disclosure]
+> no
+> 
+> ------------------------------------------
+> 
+> [Attack Vectors]
+> attacker can replace connected email address to someone's email address without verification
+> 
+> ------------------------------------------
+> 
+> [Reference]
+> Instagram
+> 
+>
+> [Discoverer]
+> Moein Naghavian
+> Soheil Samanabadi
